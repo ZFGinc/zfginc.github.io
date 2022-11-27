@@ -3,7 +3,7 @@
         "id": 0,
         "theme": "System post",
         "data": "November 26, 2022.",
-        "img": "images/0fd3416c.jpeg",
+        "img": "\/images\/0fd3416c.jpeg",
         "previewText": "This is the first post. It exists only to test the system!",
         "text": "",
         "isHaveButton" : false
@@ -12,7 +12,7 @@
         "id": 1,
         "theme": "Announcement of the game InfinitoVOX",
         "data": "November 28, 2022.",
-        "img": "images/0fd3416c.jpeg",
+        "img": "\/images\/0fd3416c.jpeg",
         "previewText": "The new year is approaching, so I want to introduce you to a new project that...",
         "text": "",
         "isHaveButton" : true
