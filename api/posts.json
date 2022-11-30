@@ -3,15 +3,15 @@
         "id": 0,
         "theme": "System post",
         "date": "November 26, 2022.",
-        "img": "./images/0fd3416c.jpeg",
+        "img":"/images/0fd3416c.jpeg",
         "previewText": "This is the first post. It exists only to test the system!",
-        "text": ""
+        "text": "Sorry, but this post is useless to read, because it only serves to test the posting system.<br>But you can also read other posts that will be available soon!<br><br>Thank you for your attention!"
     },
     {
         "id": 1,
         "theme": "Announcement of the game InfinitoVOX",
         "date": "November 28, 2022.",
-        "img": "./images/0fd3416c.jpeg",
+        "img":"/images/0fd3416c.jpeg",
         "previewText": "The new year is approaching, so I want to introduce you to a new project that...",
         "text": ""
     }
