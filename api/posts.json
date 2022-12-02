@@ -9,10 +9,10 @@
     },
     {
         "id": 1,
-        "theme": "Announcement of the game InfinitoVOX",
-        "date": "November 28, 2022.",
-        "img": "./images/0fd3416c.jpeg",
-        "previewText": "The new year is approaching, so I want to introduce you to a new project that...",
-        "text": ""
+        "theme": "8-Bit RPG",
+        "date": "December 2, 2022.",
+        "img":"./images/posts/8bit-preview.png",
+        "previewText": "I want to share with you about an old project...",
+        "text": "On April 30, 2020, I participated in Game Jam for the first time on itch.io. Let me tell you, it is an unforgettable experience!<br>I met some good guys and for the first time I did a project with a tight time frame. I already had texture sketches, but I didn't know where to use them.<br><br>After Game Jam, I decided not to abandon the project, but to continue to support it. <img width=\"570\" align=\"center\" style=\"width: 366px;\" class=\"fr-dib fr-fic fr-fil\" src=\"../images/posts/8bit-preview.png\"> This is how the 8-Bit RPG was born!<br><br>At the moment it's still a bit raw in some places, but thanks to it I've gained a lot of new skills in programming and promotion.<br><br>You can download the game from <a href=\"https://play.google.com/store/apps/details?id=com.ZFGinc.EightBitMagicWar\">THIS LINK</a>.<br><br>Have a nice game!"
     }
 ]
