@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>  
+    <head>
+        <meta http-equip="ngrok-skip-browser-warning" name="true" />
+        <script>
+            XMLHttpRequest.prototype.open = (function(open) {
+                return function(method,url,async) {
+                    open.apply(this,arguments);
+                    this.setRequestHeader('ngrok-skip-browser-warning', 'skip-browser-warning');
+                };
+            })(XMLHttpRequest.prototype.open);
+        </script>
+    </head>
+    <body>
+        <iframe src="https://organic-meerkat-wildly.ngrok-free.app/" 
+                style="height: 100%; width: 100%; overflow: hidden; position: absolute; top: 0px; left: 0px;" 
+                frameborder="0">
+        </iframe>
+    </body>
+</html>
